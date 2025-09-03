@@ -1,8 +1,8 @@
-CarbonSustain Coding Assignment: Backend API
+**CarbonSustain Coding Assignment: Backend API**
 
 Purpose: REST API to manage and track sustainability actions with CRUD functionality, using a database model stored in a JSON file.
 
-Functions:
+**Functions:**
 GET Endpoint: Retrieve a list of all sustainability actions.
     (URL: /api/actions/)
     
