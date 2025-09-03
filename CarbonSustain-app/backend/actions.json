@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "action": "Recycling",
+        "date": "2025-09-02",
+        "points": 25
+    },
+    {
+        "id": 2,
+        "action": "Fixing a bigger leak",
+        "date": "2025-09-03",
+        "points": 55
+    },
+    {
+        "id": 4,
+        "action": "Reduce",
+        "date": "2025-09-05",
+        "points": 10
+    },
+    {
+        "id": 5,
+        "action": "Reduce",
+        "date": "2025-09-05",
+        "points": 10
+    },
+    {
+        "id": 6,
+        "action": "Reduce",
+        "date": "2025-09-05",
+        "points": 10
+    }
+]
